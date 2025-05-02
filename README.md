@@ -90,29 +90,3 @@
     </script>
 </body>
 </html>
-
-Qisqacha tushuntirish:
-
-✅ Yuqorida sarlavha, do‘kon nomi
-✅ Ikki mahsulot bloklari (ko‘proq qo‘shish mumkin)
-✅ Taklif + surat yuborish formasi
-✅ Formani yuborganida oddiy alert chiqadi (serverga yuborish uchun backend kerak, hozir front-end tayyorlab berdim)
-
-
----
-
-Keyingi qadamlar:
-
-1. Telefon yoki kompyuterda .html fayl sifatida saqla.
-
-
-2. GitHub Pages yoki Netlify ga joyla (xohlasang soddalashtirib tushuntirib beraman).
-
-
-3. Agar xohlasang, mahsulotlar bo‘limini kengaytirib beraman yoki suratlarni haqiqiy serverga yuboradigan backend yozib beraman.
-
-
-
-Senga GitHub Pages yoki Netlify yuklash bo‘yicha qadam-qadam ko‘rsatma yozib yuboraymi? 🌟
-
-# suratdagi_haqiqat
